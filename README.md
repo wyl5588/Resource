@@ -10,9 +10,6 @@
       
          win10: http://hbsds.ruanjiandown.com:8769/iso/WIN10_X64_2017_1222.iso
       
-   windows2008: http://124.205.69.135/files/60350000000AD668/sqlserver.dlservice.microsoft.com/dl/download/B/8/0/B808AF59-7619-4A71-A447-F597DE74AC44/SQLFULL_CHS.iso
-      
-   windows2012: http://care.dlservice.microsoft.com/dl/download/2/8/7/287E63DD-3A27-4469-9094-5F7B7C4BF828/9200.16384.WIN8_RTM.120725-1247_X64FRE_SERVER_EVAL_ZH-CN-HRM_SSS_X64FREE_ZH-CN_DV5.ISO?lcid=2052&cprod=winsvr2012rtmisotn_p
 
 [Linux]官网
       
