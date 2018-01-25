@@ -7,6 +7,10 @@
 - **[蓝灯Google]**
 
        Lantern： https://github.com/getlantern/forum
+               
+- **[Pycharm永久激活]**
+
+       pycharm： http://blog.csdn.net/qq_32259579/article/details/78952121
 
 - **[微软Windows]**
       
