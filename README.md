@@ -25,3 +25,5 @@
        Centos7.4: https://mirrors.aliyun.com/centos/7.4.1708/isos/x86_64/CentOS-7-x86_64-DVD-1708.iso
 
 - **[服务Servers]**
+       
+       敏特同步学组卷系统:
